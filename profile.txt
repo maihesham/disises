@@ -1,0 +1,24 @@
+name:omer Ahmed
+adress:elharm
+phone:01016174580
+appointment:monday from 12:3 PM and saturday from 8:10 AM
+specialization:bones
+
+name:omer kherat
+adrees:15 may
+phone:01016174580
+appointment:monday from 12:3 PM and saturday from 8:10 AM
+specialization:dintal
+
+name:ahmed hermas
+adress:embabah
+phone:01123930957
+appointment:monday from 12:3 PM and saturday from 9:11 AM
+specialization:abdomin
+
+name:mai samer hesham
+adress:New Egypt
+phone:011999999999
+appointment:monday from 9:9 PM and saturday from 9:11 AM
+specialization:Eyes
+

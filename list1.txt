@@ -1,0 +1,22 @@
+
+                a-pain in the aspects 0
+                b-Heaviness in the kidneys with a wrench in a man pain in the back  1
+                c-Severe pain in the lower back and the difficulty of movement and walking 2
+                d-pain in the right side and the shoulder  3
+                e-The inability to eat and loss of appetite 4
+                f-Severe pain at the top of abdomen  5
+                g-Severe bleeding in the digestive tract 6   
+                h-loss of appetite  7 
+                i-teeth pain 8 
+                j-The occurrence of teeth 9  
+                k-Bleeding gums  10
+                 l-Diarrhea 11 
+                 m-high heat 12 
+                 n-Nausea 13
+                o-weight loss 14 
+                p-Some Fractures  15 
+	v-Redness of the eye and increase the secretion of tears 16
+	x-The feeling of a foreign body in the eye 17
+	y-Infect scar the cornea  18
+	z- Double vision of things19
+	
